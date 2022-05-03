@@ -1,0 +1,24 @@
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#diningroom,#bedroom,#tvroom,#fruits,#kitchen
+{
+font-size: 30px;
+}
+body{
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(to right,yellow,green,blue,crimson,violet,orange);
+}
+
+canvas{
+    box-shadow: 10px 10px 10px blue;
+    border-radius: 15px;
+}
+#diningroom,#bedroom,#tvroom,#fruits,#kitchen{
+    font: 20px;
+}
